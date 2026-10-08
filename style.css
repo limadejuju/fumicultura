@@ -97,55 +97,7 @@ blockquote { background-color: #edf2e8; border-left: 6px solid #6d8b55; margin: 
 .cabecalho h1 { font-size: 2rem; }
 
 .conteudo { grid-template-columns: 1fr; }
-<!DOCTYPE html> <html lang="pt-BR"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta name="description" content="Artigo informativo sobre a evolução e a mecanização da fumicultura.">
-
-<title>Fumicultura: Evolução e Mecanização</title>
-
-<link rel="stylesheet" href="style.css"> </head>
-
-<body>
-
-<header class="cabecalho"> <div class="container"> <h1>Fumicultura: Evolução e Mecanização</h1>
-
-<p> Da produção tradicional às novas tecnologias no campo </p> </div> </header>
-
-<nav class="menu"> <div class="container"> <ul> <li><a href="#inicio">Início</a></li> <li><a href="#historia">Evolução</a></li> <li><a href="#mecanizacao">Mecanização</a></li> <li><a href="#tecnologia">Tecnologia</a></li> <li><a href="#conclusao">Conclusão</a></li> </ul> </div> </nav>
-
-<main class="container conteudo">
-
-<article>
-
-<section id="inicio" class="secao"> <h2>O que é a fumicultura?</h2>
-
-<p> A fumicultura é a atividade agrícola relacionada ao cultivo, manejo e produção do tabaco. Essa cultura possui importância econômica e social em diversas regiões produtoras, especialmente em propriedades familiares. </p>
-
-<p> Ao longo dos anos, as técnicas utilizadas pelos produtores passaram por diversas transformações. Ferramentas manuais, equipamentos e máquinas agrícolas foram sendo incorporados ao processo produtivo, buscando aumentar a eficiência e reduzir o esforço físico dos trabalhadores. </p>
-
-<figure> <img src="https://images.unsplash.com/photo-1492496913980-501348b61469?auto=format&fit=crop&w=1200&q=80" alt="Plantação agrícola em área rural representando o trabalho no campo"> <figcaption> A agricultura passou por grandes transformações com a introdução de novas técnicas e tecnologias. </figcaption> </figure> </section>
-
-<section id="historia" class="secao"> <h2>A evolução da fumicultura</h2>
-
-<p> Durante muito tempo, grande parte das atividades da fumicultura foi realizada de forma manual. O preparo do solo, o plantio, os cuidados com as plantas, a colheita e outras etapas exigiam grande quantidade de mão de obra. </p>
-
-<p> Com o desenvolvimento da agricultura e o avanço tecnológico, novos equipamentos começaram a auxiliar os produtores. Essa evolução modificou gradualmente a rotina nas propriedades rurais. </p>
-
-<h2>Principais mudanças ao longo do tempo</h2>
-
-<ul> <li>Maior utilização de ferramentas e equipamentos agrícolas;</li> <li>Melhoria das técnicas de preparo do solo;</li> <li>Desenvolvimento de máquinas para diferentes etapas da produção;</li> <li>Maior preocupação com ergonomia e segurança no trabalho;</li> <li>Uso crescente de tecnologias para planejamento e controle da produção;</li> <li>Busca por maior eficiência e redução do trabalho repetitivo.</li> </ul>
-
-<blockquote> “A mecanização agrícola representa uma das principais transformações ocorridas no campo, contribuindo para modificar a maneira como diversas atividades são realizadas.” </blockquote> </section>
-
-<section id="mecanizacao" class="secao"> <h2>A mecanização na fumicultura</h2>
-
-<p> A mecanização consiste na utilização de máquinas, equipamentos e ferramentas para auxiliar ou realizar determinadas operações agrícolas. Na fumicultura, esse processo pode estar presente em diferentes momentos da produção. </p>
-
-<p> A utilização de equipamentos pode contribuir para diminuir o esforço físico e tornar algumas operações mais rápidas. Entretanto, a mecanização deve ser planejada de acordo com as características da propriedade e da atividade realizada. </p>
-
-<div class="cards">
-
-<div class="card"> <h3>Preparo do solo</h3> <p> Máquinas e implementos agrícolas podem auxiliar no preparo e manejo do solo antes do cultivo. </p> </div>
 .barra-lateral { position: static; }
 
 .cards { grid-template-columns: 1fr; }
